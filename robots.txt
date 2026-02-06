@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mabresnegociosimobiliarios.com.br/sitemap.xml
